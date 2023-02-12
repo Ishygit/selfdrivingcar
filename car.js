@@ -58,6 +58,7 @@ class car{
         }
         return false
     }
+    //#endregion
 
     #craetePolygon(){
         const points=[];
