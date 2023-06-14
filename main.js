@@ -1,4 +1,5 @@
 //this is the main part of the system
+// this connects all the aspects of the car
 const carCanvas=document.getElementById("carCanvas");
 carCanvas.width=200;
 const networkCanvas=document.getElementById("networkCanvas");
