@@ -1,3 +1,4 @@
+// this is the car model that is used to implement self driving
 class car{
     constructor(x,y,width,height,controlType,maxSpeed=3){
         this.x=x;
