@@ -1,3 +1,4 @@
+//this is the basic keyboard controls for the car model
 class controls{
     constructor(type){
         this.forward=false;
